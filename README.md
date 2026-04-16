@@ -175,7 +175,6 @@ rennes_traffic/
 | `get_data.py` | Clé `longitude` (faute de frappe) | Remplacée par `lon` |
 | `utils.py` | `zoom=10` sans virgule dans `create_figure()` | Ajout de la virgule |
 | `utils.py` | Tableau `np.array([0]*25)` au lieu de 24 heures | Corrigé en `np.array([0]*24)` |
-| `index.html` | Balise `<h4>` fermée par `</h1>` | Corrigé en `</h4>` |
 
 ---
 
